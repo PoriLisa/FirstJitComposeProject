@@ -1,0 +1,2 @@
+rootProject.name = "FirstJitComposeProject"
+include ':app'
